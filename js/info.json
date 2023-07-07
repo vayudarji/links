@@ -4,48 +4,47 @@
     "image": "images/bgimg.jpeg"
   },
   "userdetails": {
-    "userimage": "images/sq.png",
-    "username": "iamkunal9",
-    "userbio": "A coder, Techie, Eth Hacker!!!"
+    "userimage": "images/sq2.png",
+    "username": "Vayu Tailor",
+    "userbio": "A coder, Techie, Exploring..."
   },
   "links": {
     "Instagram": {
-      "href": "https://instagram.com/iamkunal9here",
+      "href": "https://instagram.com/vayutailor?igshid=MzNlNGNkZWQ4Mg==",
       "src": "images/icons/instagram.gif"
     },
     "Github": {
-      "href": "https://github.com/iamkunal9",
+      "href": "https://github.com/vayudarji",
       "src": "images/icons/github.gif"
     },
     "Linkedin": {
-      "href": "https://linkedin.com/in/iamkunal9",
+      "href": "https://www.linkedin.com/in/vayu-darji-513377256",
       "src": "images/icons/linkedin.gif"
     },
     "Twitter": {
-      "href": "https://twitter.com/iamkunal9_",
+      "href": "https://twitter.com/vayu_tailor?t=E8d7BEkkmpQyUMroP8Js2Q&s=09",
       "src": "images/icons/twitter.gif"
     },
     "SnapChat": {
-      "href": "https://www.snapchat.com/add/kunalsharma0553?share_id=m-2FitLng4E&locale=en-US",
+      "href": "https://www.snapchat.com/add/vayu_tailor?share_id=fa-l1-8zTrY&locale=en-GB",
       "src": "images/icons/snap.gif"
     },
     "YouTube":{
-      "href": "https://www.youtube.com/@iamkunal9",
+      "href": "https://youtube.com/@Vayu.1",
       "src": "images/icons/youtube.gif"
     },
-    "Buy Me A Coffee": {
-      "href": "https://www.buymeacoffee.com/iamkunal9",
-      "src": "images/icons/coff.gif"
+    "Threads":{
+      "href": "https://www.threads.net/@vayutailor",
+      "src": "images/icons/threads1.png"
     },
+    
+    
     "Contact Me": {
-      "href": "mailto:kunalsharma0553@gmail.com",
+      "href": "mailto:vayutailor@gmail.com",
       "src": "images/icons/mail.gif"
     }
   },
   "projects":{
-    "Links":"https://github.com/iamkunal9/links",
-    "TruecallerBOT":"https://appopener.com/web/3d6qh47rb",
-    "Url Shortner":"https://skip.ga",
-    "Aarohan Web":"https://aarohan.poornima.org"
+  
   }
 }
